@@ -25,7 +25,8 @@ I am an environmental engineer working with geospatial technologies.
     <a href="https://github.com/mtennekes/tmap">tmap</a> | <a href="https://github.com/r-spatial/stars/">stars</a> | <a href="https://github.com/rstudio/rticles">rticles</a> 
 </p>
 
-- My hobbies: :mountain: | :books: | :bicyclist: 
+- Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
+- Not on my CV: my hobbies: :mountain: | :books: | :bicyclist: 
 - Find me at: 
 <p align="center">
   <a href="https://twitter.com/loreabad6"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
