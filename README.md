@@ -25,7 +25,9 @@ I am an environmental engineer working with geospatial technologies.
     <a href="https://github.com/mtennekes/tmap">tmap</a> | <a href="https://github.com/r-spatial/stars/">stars</a> | <a href="https://github.com/rstudio/rticles">rticles</a> 
 </p>
 
-- My hobbies: :tent: | :books: | :bicyclist: 
+- My hobbies: :mountain: | :books: | :bicyclist: 
+- I sometimes post news/updates on my research and data visualization interests on <img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width="30px"/> [@loreabad6](https://twitter.com/loreabad6)
+    - You will also find my [#TidyTuesday](https://github.com/loreabad6/TidyTuesday) contributions there :smile: 
 <!--
 **loreabad6/loreabad6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
