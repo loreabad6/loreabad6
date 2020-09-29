@@ -26,8 +26,12 @@ I am an environmental engineer working with geospatial technologies.
 </p>
 
 - My hobbies: :mountain: | :books: | :bicyclist: 
-- I sometimes post news/updates on my research and data visualization interests on <img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width="30px"/> [@loreabad6](https://twitter.com/loreabad6)
-    - You will also find my [#TidyTuesday](https://github.com/loreabad6/TidyTuesday) contributions there :smile: 
+- Find me at: 
+<p align="center">
+  <a href="https://twitter.com/loreabad6"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.researchgate.net/profile/Lorena_Abad2"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://scholar.google.pl/citations?user=vDqPwpUAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+</p>
 <!--
 **loreabad6/loreabad6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
