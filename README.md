@@ -4,7 +4,7 @@ I am an environmental engineer working with geospatial technologies.
 
 - :mag_right: I’m currently working as a researcher at the [Z_GIS](https://zgis.at/) department at the University of Salzburg
   - :earth_africa: My research is focused on the analysis of **natural hazards** and their related impacts using **remote sensing**
-- :bike: I also enjoy the **sustainable transport** as a research topic and a way of life
+- :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
 - :computer: I really like programming in **R**. My motto: *I bet you can do that in R* :heavy_exclamation_mark:
   - I co-authored a 📦 for spatial networks analysis: [sfnetworks](https://github.com/luukvdmeer/sfnetworks). Check it out!
@@ -26,7 +26,7 @@ I am an environmental engineer working with geospatial technologies.
 </p>
 
 - Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
-- Not on my CV: my hobbies: :mountain: | :books: | :bicyclist: 
+- Not on my CV, my hobbies! Hiking :mountain: | Reading :books: | Cycling :bicyclist: 
 - Find me at: 
 <p align="center">
   <a href="https://twitter.com/loreabad6"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
