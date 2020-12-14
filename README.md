@@ -8,7 +8,7 @@ I am an environmental engineer working with geospatial technologies.
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
 - :computer: I really like programming in **R**. My motto: *I bet you can do that in R* :heavy_exclamation_mark:
   - I co-authored a 📦 for spatial networks analysis, check it out! 
-  <p align="center"><a href="https://github.com/luukvdmeer/sfnetworks"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="60px"/></a>.</p>
+  <p align="center"><a href="https://github.com/luukvdmeer/sfnetworks"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="60px"/></a></p>
   - 📦 I use *really* often: 
 <p align="center">
   <a href="https://github.com/r-spatial/sf"><img src="https://user-images.githubusercontent.com/520851/34887433-ce1d130e-f7c6-11e7-83fc-d60ad4fae6bd.gif" width="60px"/></a>
