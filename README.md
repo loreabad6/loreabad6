@@ -9,7 +9,7 @@ I am an environmental engineer working with geospatial technologies.
 - :computer: I really like programming in **R**. My motto: *I bet you can do that in R* :heavy_exclamation_mark:
   - I co-authored a 📦 for spatial networks analysis, check it out! 
 <p align="center">
-  <a href="https://github.com/luukvdmeer/sfnetworks"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="80px"/></a>
+  <a href="https://github.com/luukvdmeer/sfnetworks"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="70px"/></a>
 </p>
 
   - 📦 I use *really* often: 
