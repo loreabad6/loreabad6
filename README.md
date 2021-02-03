@@ -18,6 +18,7 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/r-spatial/rgee"><img src="https://raw.githubusercontent.com/r-spatial/rgee/master/man/figures/logo.png" width="50px"; height="58px"/></a>
   <a href="https://github.com/tidyverse/dplyr"><img src="https://raw.githubusercontent.com/tidyverse/dplyr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/thomasp85/ggraph"><img src="https://ggraph.data-imaginist.com/reference/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/scico"><img src="https://github.com/thomasp85/scico/raw/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/ropensci/osmdata"><img src="https://github.com/ropensci/osmdata/raw/master/man/figures/osmhex.png" width="50px"; height="60px"/></a>
