@@ -22,7 +22,7 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/thomasp85/scico"><img src="https://github.com/thomasp85/scico/raw/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/ropensci/osmdata"><img src="https://github.com/ropensci/osmdata/raw/master/man/figures/osmhex.png" width="50px"; height="60px"/></a>
   <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/rstudio/rmarkdown"><img src="https://camo.githubusercontent.com/de0519dd8e4ebc982eb0ddfaa9c6cd0924149e6c/68747470733a2f2f626f6f6b646f776e2e6f72672f79696875692f726d61726b646f776e2f696d616765732f6865782d726d61726b646f776e2e706e67" width="50px"/></a>
+  <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
   <a href="https://github.com/yihui/knitr"><img src="https://www.libraries.rutgers.edu/sites/default/files/styles/resize_to_300px_width/public/events/2019/09/knitr_0.png?itok=ubV35F1I" width="50px"/></a>
   <a href="https://github.com/yihui/xaringan"><img src="https://user-images.githubusercontent.com/163582/45438104-ea200600-b67b-11e8-80fa-d9f2a99a03b0.png" width="50px"/></a>
   <br>
