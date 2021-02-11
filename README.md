@@ -14,7 +14,7 @@ I am an environmental engineer working with geospatial technologies.
 
   - 📦 I use *really* often: 
 <p align="center">
-  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="60px"/></a>
+  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
   <a href="https://github.com/r-spatial/rgee"><img src="https://raw.githubusercontent.com/r-spatial/rgee/master/man/figures/logo.png" width="50px"; height="58px"/></a>
   <a href="https://github.com/tidyverse/dplyr"><img src="https://raw.githubusercontent.com/tidyverse/dplyr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
