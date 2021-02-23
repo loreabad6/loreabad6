@@ -21,7 +21,7 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/thomasp85/ggraph"><img src="https://ggraph.data-imaginist.com/reference/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/scico"><img src="https://github.com/thomasp85/scico/raw/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/ropensci/osmdata"><img src="https://github.com/ropensci/osmdata/raw/master/man/figures/osmhex.png" width="50px"; height="60px"/></a>
+  <a href="https://github.com/ropensci/osmdata"><img src="https://docs.ropensci.org/osmdata/reference/figures/osmhex.png" width="50px"; height="60px"/></a>
   <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
   <a href="https://github.com/yihui/knitr"><img src="https://www.libraries.rutgers.edu/sites/default/files/styles/resize_to_300px_width/public/events/2019/09/knitr_0.png?itok=ubV35F1I" width="50px"/></a>
