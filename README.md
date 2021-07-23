@@ -2,7 +2,7 @@
   
 I am an environmental engineer working with geospatial technologies.
 
-- :mag_right: I’m currently working as a researcher at the [Z_GIS](https://zgis.at/) department at the University of Salzburg
+- :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](risk-hazard-climate.zgis.at) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
   - :earth_africa: My research is focused on the analysis of **natural hazards** and their related impacts using **remote sensing**
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
@@ -24,7 +24,7 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/ropensci/osmdata"><img src="https://docs.ropensci.org/osmdata/reference/figures/osmhex.png" width="50px"; height="60px"/></a>
   <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
-  <a href="https://github.com/yihui/knitr"><img src="https://www.libraries.rutgers.edu/sites/default/files/styles/resize_to_300px_width/public/events/2019/09/knitr_0.png?itok=ubV35F1I" width="50px"/></a>
+  <a href="https://github.com/yihui/knitr"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/knitr.png" width="50px"/></a>
   <a href="https://github.com/yihui/xaringan"><img src="https://user-images.githubusercontent.com/163582/45438104-ea200600-b67b-11e8-80fa-d9f2a99a03b0.png" width="50px"/></a>
   <br>
     <a href="https://github.com/mtennekes/tmap">tmap</a> | <a href="https://github.com/r-spatial/stars/">stars</a> | <a href="https://github.com/rstudio/rticles">rticles</a> 
