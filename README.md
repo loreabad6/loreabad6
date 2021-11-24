@@ -2,7 +2,7 @@
   
 I am an environmental engineer working with geospatial technologies.
 
-- :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](risk-hazard-climate.zgis.at) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
+- :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](https://risk-hazard-climate.zgis.at) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
   - :earth_africa: My research is focused on the analysis of **natural hazards** and their related impacts using **remote sensing**
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
