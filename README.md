@@ -15,6 +15,7 @@ I am an environmental engineer working with geospatial technologies.
   - 📦 I use *really* often: 
 <p align="center">
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
+  <a href="https://github.com/r-tmap/tmap"><img src="https://user-images.githubusercontent.com/3457131/78889069-479c5480-7a63-11ea-9d76-e8a0acc55c3f.png" width="50px"; height="58px"/></a>
   <a href="https://github.com/r-spatial/rgee"><img src="https://raw.githubusercontent.com/r-spatial/rgee/master/man/figures/logo.png" width="50px"; height="58px"/></a>
   <a href="https://github.com/tidyverse/tidyverse"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
@@ -28,7 +29,7 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/yihui/xaringan"><img src="https://user-images.githubusercontent.com/163582/45438104-ea200600-b67b-11e8-80fa-d9f2a99a03b0.png" width="50px"/></a>
   <a href="https://github.com/rstudio/rticles"><img src="https://raw.githubusercontent.com/rstudio/rticles/master/man/figures/logo.png" width="50px"/></a>
   <br>
-    <a href="https://github.com/mtennekes/tmap">tmap</a> | <a href="https://github.com/r-spatial/stars/">stars</a> 
+    <a href="https://github.com/r-spatial/stars/">stars</a> 
 </p>
 
 - Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
