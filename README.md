@@ -26,8 +26,9 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
   <a href="https://github.com/yihui/knitr"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/knitr.png" width="50px"/></a>
   <a href="https://github.com/yihui/xaringan"><img src="https://user-images.githubusercontent.com/163582/45438104-ea200600-b67b-11e8-80fa-d9f2a99a03b0.png" width="50px"/></a>
+  <a href="https://github.com/rstudio/rticles"><img src="https://raw.githubusercontent.com/rstudio/rticles/master/man/figures/logo.png" width="50px"/></a>
   <br>
-    <a href="https://github.com/mtennekes/tmap">tmap</a> | <a href="https://github.com/r-spatial/stars/">stars</a> | <a href="https://github.com/rstudio/rticles">rticles</a> 
+    <a href="https://github.com/mtennekes/tmap">tmap</a> | <a href="https://github.com/r-spatial/stars/">stars</a> 
 </p>
 
 - Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
