@@ -16,13 +16,13 @@ I am an environmental engineer working with geospatial technologies.
 <p align="center">
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
   <a href="https://github.com/r-tmap/tmap"><img src="https://user-images.githubusercontent.com/3457131/78889069-479c5480-7a63-11ea-9d76-e8a0acc55c3f.png" width="50px"; height="58px"/></a>
+  <a href="https://github.com/ropensci/osmdata"><img src="https://docs.ropensci.org/osmdata/reference/figures/osmhex.png" width="50px"; height="60px"/></a>
   <a href="https://github.com/r-spatial/rgee"><img src="https://raw.githubusercontent.com/r-spatial/rgee/master/man/figures/logo.png" width="50px"; height="58px"/></a>
   <a href="https://github.com/tidyverse/tidyverse"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/ggraph"><img src="https://ggraph.data-imaginist.com/reference/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/scico"><img src="https://github.com/thomasp85/scico/raw/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/ropensci/osmdata"><img src="https://docs.ropensci.org/osmdata/reference/figures/osmhex.png" width="50px"; height="60px"/></a>
   <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
   <a href="https://github.com/yihui/knitr"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/knitr.png" width="50px"/></a>
