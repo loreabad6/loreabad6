@@ -41,11 +41,6 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://scholar.google.pl/citations?user=vDqPwpUAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
-- I recently finished the #30DayMapChallenge (check my pinned repos), so for the time being, I will have this here:
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/10034237/144391785-aa066b34-72f2-4b47-97e0-00da9264ed1f.png" width="400px"</img>
-</p>
-
 <!--
 **loreabad6/loreabad6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
