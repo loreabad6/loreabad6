@@ -3,7 +3,7 @@
 I am an environmental engineer working with geospatial technologies.
 
 - :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](https://risk-hazard-climate.zgis.at) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
-  - :earth_africa: My research is focused on the analysis of **natural hazards** and their related impacts using **remote sensing**
+  - :earth_africa: My PhD research is focused on the use of **big EO data** and **remote sensing** methods to map and monitor **geomorphological processes** and **landscape dynamcis**.
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
 - :computer: I really like programming in **R**. My motto: *I bet you can do that in R* :heavy_exclamation_mark:
@@ -22,7 +22,7 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/ggraph"><img src="https://ggraph.data-imaginist.com/reference/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/thomasp85/patchwork"><img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/thomasp85/scico"><img src="https://github.com/thomasp85/scico/raw/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/thomasp85/scico"><img src="https://raw.githubusercontent.com/thomasp85/scico/main/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/mitchelloharawild/vitae"><img src="https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
   <a href="https://github.com/yihui/knitr"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/knitr.png" width="50px"/></a>
