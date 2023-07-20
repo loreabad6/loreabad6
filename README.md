@@ -1,6 +1,6 @@
 ### Hi there, I am Lorena! 👋
   
-I am an environmental engineer working with geospatial technologies.
+I am PhD researcher working with geospatial technologies.
 
 - :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](https://risk-hazard-climate.zgis.at) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
   - :earth_africa: My PhD research is focused on the use of **big EO data** and **remote sensing** methods to map and monitor **geomorphological processes** and **landscape dynamcis**.
@@ -30,6 +30,12 @@ I am an environmental engineer working with geospatial technologies.
   <a href="https://github.com/rstudio/rticles"><img src="https://raw.githubusercontent.com/rstudio/rticles/master/man/figures/logo.png" width="50px"/></a>
   <br>
     <a href="https://github.com/r-spatial/stars/">stars</a> 
+</p>
+
+- Want to support fairer academic evaluation? Try [ProAc](https://www.fabiocrameri.ch/proac/) by Fabio Crameri. Here is mine:
+
+<p align="center">
+  <a href="https://www.fabiocrameri.ch/proac/"><img src="https://raw.githubusercontent.com/loreabad6/R-CV/master/ProAc/ProAc-LorenaAbad-2023-Jul.png"/></a>
 </p>
 
 - Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
