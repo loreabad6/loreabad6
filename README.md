@@ -35,7 +35,7 @@ I am PhD researcher working with geospatial technologies.
 - Want to support fairer academic evaluation? Try [ProAc](https://www.fabiocrameri.ch/proac/) by Fabio Crameri. Here is mine:
 
 <p align="center">
-  <a href="https://www.fabiocrameri.ch/proac/"><img src="https://raw.githubusercontent.com/loreabad6/R-CV/master/ProAc/ProAc-LorenaAbad-2023-Jul-Dark.png"/></a>
+  <a href="https://www.fabiocrameri.ch/proac/"><img src="https://raw.githubusercontent.com/loreabad6/R-CV/master/ProAc/ProAc-LorenaAbad-Dark.png"/></a>
 </p>
 
 - Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
