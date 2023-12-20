@@ -2,7 +2,7 @@
   
 I am PhD researcher working with geospatial technologies.
 
-- :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](https://risk-hazard-climate.zgis.at) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
+- :mag_right: I’m currently working as a researcher at the [Risk, Hazard & Climate Lab](https://www.plus.ac.at/geoinformatik/research/research-areas/risk-hazard-climate/?lang=en) and the [EO-Analytics Lab](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en) of the [Z_GIS](https://zgis.at/) department at the University of Salzburg
   - :earth_africa: My PhD research is focused on the use of **big EO data** and **remote sensing** methods to map and monitor **geomorphological processes** and **landscape dynamcis**.
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
