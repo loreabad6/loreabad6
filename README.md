@@ -40,7 +40,7 @@ I am PhD researcher working with geospatial technologies.
   <a href="https://www.fabiocrameri.ch/proac/"><img src="https://raw.githubusercontent.com/loreabad6/R-CV/master/ProAc/ProAc-LorenaAbad-Dark.png"/></a>
 </p>
 
-- Want to know more? [Check my CV!](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/loreabad6/R-CV/master/CV.pdf)
+- Want to know more? [Check my CV!](https://loreabad6.github.io/R-CV/CV.pdf)
 - Not on my CV, my hobbies! Hiking :mountain: | Reading :books: | Cycling :bicyclist: 
 - Find me at: 
 <p align="center">
