@@ -7,8 +7,9 @@ I am PhD researcher working with geospatial technologies.
 - :bike: I also enjoy **sustainable transport** as a research topic and a way of life
 - :bar_chart: I am interested in **data visualization** for **scientific communication**
 - :computer: I really like programming in **R**. My motto: *I bet you can do that in R* :heavy_exclamation_mark:
-  - I co-authored a 📦 for spatial networks analysis, check it out! 
+  - I (co-)authored 📦 for spatial analysis, check them out! 
 <p align="center">
+  <a href="https://github.com/loreabad6/post"><img src="https://github.com/loreabad6/post/raw/main/man/figures/hexlogo.png" width="70px"/></a>
   <a href="https://github.com/luukvdmeer/sfnetworks"><img src="https://raw.githubusercontent.com/luukvdmeer/sfnetworks/master/man/figures/logo.png" width="70px"/></a>
 </p>
 
